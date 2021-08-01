@@ -27,14 +27,6 @@ display(quantidade_categoria_percentual)                                        
 2. A maioria dos cancelamentos estão aaixo de 60 transações, entre 30 a 50 transações é um ponto critico. Programa para usar mais de 80 vezes pode diminuir os cancelamentos
 3. Quanto mais vezes o cliente entra em contato, maior a chance de cancelar. Pode haver um problema de suporte e relacionamento ao cliente
 
-
-
-
-
-
-
-
-
 """
 
 import plotly.express as px
